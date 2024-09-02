@@ -1,1 +1,1 @@
-# PRACT1---Gesti-n-de-Memoria-en-Python
+# PRACT1--Gestion-de-Memoria-en-Python
